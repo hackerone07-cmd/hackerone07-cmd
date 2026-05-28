@@ -44,7 +44,7 @@ AI-powered career prep platform that analyzes a resume, self-description, and ta
 - Uses structured prompt design to return clean JSON rendered as an interactive dashboard
 - Designed for technical interview preparation, behavioral practice, and targeted career planning
 
-[Repository](https://github.com/hackerone07-cmd/SkillGap-AI) | [Live Demo](https://skill-gap-ai-bay.vercel.app)
+[Repository](https://github.com/hackerone07-cmd/SkillGap-AI) | [Live Demo](https://skill-gap-ai-six.vercel.app)
 
 ### StaySphere - Full-Stack Web Application
 
